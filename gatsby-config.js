@@ -49,9 +49,9 @@ module.exports = {
       options: {
         name: `jodie - @lekoarts/gatsby-theme-jodie`,
         short_name: `jodie`,
-        description: `Image-heavy photography portfolio with colorful accents & customizable pages. Includes adaptive image grids powered by CSS grid and automatic image integration into projects.`,
+        description: `I'm Ron. I'm a full time software developer who's also into photography, cinematography, tech, finance, music, coffee and theology. Soli Deo Gloria!`,
         start_url: `/`,
-        background_color: `#ffffff`,
+        background_color: `#000000`,
         // This will impact how browsers show your PWA/website
         // https://css-tricks.com/meta-theme-color-and-trickery/
         // theme_color: `#b75e09`,
